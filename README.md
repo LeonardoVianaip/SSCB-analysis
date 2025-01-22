@@ -6,5 +6,5 @@ This Repository was made with the purpose of analysing, understanding and help t
 
 ## Solid State Circuit Breaker Basics
 * **Concepts**
-all circuit breakers consist on three basic components."\n"
+all circuit breakers consist on five basic components voltage clamping circuit, gate driver, sense and trip electronics, solid state switch and auxiliary power.
 ![image](https://github.com/user-attachments/assets/7df311e8-0892-495d-8e5e-4b07e036d5fd)
